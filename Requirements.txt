@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+tldextract
+python-whois
+xgboost
+fastapi
+uvicorn
+streamlit
+requests
+joblib
