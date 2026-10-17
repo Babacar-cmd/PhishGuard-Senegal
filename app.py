@@ -29,7 +29,7 @@ def get_b64(p):
         pass
     return ""
 estm_b64=get_b64(os.path.join(BASE_DIR,"estm_logo.png")) or get_b64("estm_logo.png")
-babacar_b64=get_b64(os.path.join(BASE_DIR,"Babacar_Mbow.jpg")) or get_b64("Babacar_Mbow.jpg")
+babacar_b64=get_b64(os.path.join(BASE_DIR,"Babacar_Mbow.png")) or get_b64("Babacar_Mbow.png")
 
 # ===== AUTH LOGIC - AUTO-CREE ADMIN (fix bug Utilisateur inexistant) =====
 USERS_FILE = os.path.join(BASE_DIR, "users.json")
