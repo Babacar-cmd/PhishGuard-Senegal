@@ -1,0 +1,8 @@
+{
+  "admin": {
+    "email": "admin@estm.sn",
+    "password": "pbkdf2$200000$5b178789983a108472e627f52683fb3a$06ce3d9444dcae734f21cb293808b5f825028a8bda4d573c1ec48f6b3c6a764f",
+    "nom": "admin",
+    "recovery": "pbkdf2$200000$a52d1719cc0281b413c25a4d8de540a9$597a20367f0fd11d118e8a3df4122ec7805e76f426f0322faf8157db071bd08e"
+  }
+}

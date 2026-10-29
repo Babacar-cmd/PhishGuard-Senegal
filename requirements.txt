@@ -1,0 +1,9 @@
+# Versions fixees : le modele model_rf.pkl a ete cree avec scikit-learn 1.4.2.
+# scikit-learn 1.4.2 demande Python 3.9 a 3.12 et numpy < 2.
+streamlit>=1.40,<2
+pandas>=2.0,<2.3
+numpy>=1.26,<2
+scikit-learn==1.4.2
+joblib>=1.3
+matplotlib>=3.8,<3.10
+requests>=2.31
